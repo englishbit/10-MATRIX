@@ -31,7 +31,9 @@ int main(){
                 res_mtrx[k][l]=mtrx1[k][l]+mtrx2[k][l];
             }
         }
-        
+
+
+        //logic for output
         for(int p=0;p<n;p++){
             for(int q=0;q<n;q++){
                 printf("%d ",res_mtrx[p][q]);
