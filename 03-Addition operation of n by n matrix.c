@@ -24,7 +24,8 @@ int main(){
                 scanf("%d",&mtrx2[x][y]);
             }
         }
-        
+
+        //logic for addition operation
         for(int k=0;k<n;k++){
             for(int l=0;l<n;l++){
                 res_mtrx[k][l]=mtrx1[k][l]+mtrx2[k][l];
