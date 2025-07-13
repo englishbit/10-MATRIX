@@ -4,6 +4,8 @@ int main(){
         
 
         int m,n;
+
+        //logic for taking input
         scanf("%d %d",&m,&n);
         int mtrx1[m][n];
         int mtrx2[n][m];
