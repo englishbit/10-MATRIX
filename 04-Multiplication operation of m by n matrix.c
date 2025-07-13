@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 
-        //here m<n
+        
 
         int m,n;
         scanf("%d %d",&m,&n);
