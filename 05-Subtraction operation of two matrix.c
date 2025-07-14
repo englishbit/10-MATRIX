@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
           int n;
+
+          //logic for taking input
           scanf("%d",&n);
 
           int mtrx1[n][n];
@@ -8,7 +10,7 @@ int main(){
 
           int res_mtrx[n][n];
 
-        //logic for taking input of two matrix
+        //logic for taking the first matrix
 
           for(int a=0;a<n;a++){
                 for(int b=0;b<n;b++){
@@ -25,7 +27,7 @@ int main(){
 
 
 
-          //logic for addition
+          //logic for subtraction
 
           for(int i=0;i<n;i++){
               for(int j=0;j<n;j++){
