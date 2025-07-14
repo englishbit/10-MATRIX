@@ -10,7 +10,7 @@ int main(){
 
           int res_mtrx[n][n];
 
-        //logic for taking the first matrix
+        //logic for taking the input of first matrix
 
           for(int a=0;a<n;a++){
                 for(int b=0;b<n;b++){
