@@ -18,7 +18,7 @@ int main(){
                 }
           }
 
-
+          //logic for taking the input of second matrix
           for(int x=0;x<n;x++){
              for(int y=0;y<n;y++){
                 scanf("%d",&mtrx2[x][y]);
