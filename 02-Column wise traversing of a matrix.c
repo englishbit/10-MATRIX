@@ -6,6 +6,7 @@
                 int matrix[n][n];
                 
 
+        //logic for taking the input matrix
                 for(int k=0;k<n;k++){
                     for(int l=0;l<n;l++){
                         scanf("%d", &matrix[k][l]);
