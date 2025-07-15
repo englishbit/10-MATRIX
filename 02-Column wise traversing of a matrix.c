@@ -1,6 +1,8 @@
 
     #include<stdio.h>
     int main(){
+
+        //logic for taking input
                 int n;
                 scanf("%d",&n);
                 int matrix[n][n];
