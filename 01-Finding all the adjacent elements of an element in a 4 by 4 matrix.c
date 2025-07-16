@@ -1,5 +1,4 @@
 #include <stdio.h>
-int n=6;
 
 int main(){
     int arr[4][4]={
