@@ -15,6 +15,7 @@ int main(){
 
 
 
+        //logic for output
         if(n==1){
             printf("%d",arr[0][0]);
         }else{ 
