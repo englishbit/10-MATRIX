@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){ 
         int n;
+
+        //logic for taking the input
         scanf(" %d",&n);
         int arr[n][n];
 
