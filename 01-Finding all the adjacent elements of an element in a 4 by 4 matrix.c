@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+    //logic for assigning the values into array
     int arr[4][4]={
         {7,3,6,8},
         {2,6,0,5},
@@ -46,3 +47,4 @@ int main(){
 
    return 0; 
 }
+
