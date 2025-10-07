@@ -8,7 +8,7 @@ int main(){
         {9,1,4,0},
         {5,6,3,8}
     };
-
+        //logic for idea and output
         for(int i=0;i<4;i++){
             for(int j=0;j<4;j++){
                 
@@ -47,4 +47,5 @@ int main(){
 
    return 0; 
 }
+
 
