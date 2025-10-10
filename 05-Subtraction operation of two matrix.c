@@ -32,6 +32,7 @@ int main(){
           for(int i=0;i<n;i++){
               for(int j=0;j<n;j++){
                    res_mtrx[i][j]=mtrx1[i][j]-mtrx2[i][j];
+                    //logic for output
                    printf("%d ",res_mtrx[i][j]);
               }
               printf("\n");
@@ -41,3 +42,4 @@ int main(){
     return 0;
 
 }
+
