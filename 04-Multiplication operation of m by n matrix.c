@@ -13,7 +13,7 @@ int main(){
         int res_mtrx[m][m];
 
 
-        // logic for taking input of two matrix
+        // logic for taking input of two matrices
         for(int a=0;a<m;a++){
             for(int b=0;b<n;b++){
                 scanf("%d",&mtrx1[a][b]);
@@ -49,3 +49,4 @@ int main(){
 
     return 0;
 }
+
