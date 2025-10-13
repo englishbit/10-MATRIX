@@ -28,7 +28,7 @@ int main(){
                     scanf("%d",&mtrx[i][j]);
                 }
           }
-
+        //logic for calling function
        mtrx_trvrs(0,0,mtrx);          
 
 
@@ -37,4 +37,5 @@ int main(){
 
     return 0;
 }
+
 
