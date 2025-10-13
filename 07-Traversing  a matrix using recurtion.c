@@ -19,7 +19,7 @@ void mtrx_trvrs(int l,int k,int  mtrx[n][n]){
 
 
 int main(){
-        
+        //logic for taking input
           scanf("%d",&n);
           int mtrx[n][n];
 
@@ -37,3 +37,4 @@ int main(){
 
     return 0;
 }
+
