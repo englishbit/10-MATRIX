@@ -1,5 +1,6 @@
 #include<stdio.h>
 int n;
+//logic for traversing function
 void mtrx_trvrs(int l,int k,int  mtrx[n][n]){
     if(l==n){
         return;
@@ -37,5 +38,6 @@ int main(){
 
     return 0;
 }
+
 
 
